@@ -24,7 +24,7 @@ def styliser_entry(widget):
     """Applique un style aux champs de saisie."""
     widget.configure(font=("Arial", 12), bootstyle="light")
 
-
+    
 def styliser_frame(widget):
     """Applique un style aux cadres."""
     widget.configure(bootstyle="info")
