@@ -5,7 +5,7 @@ a = Analysis(
     ['Prog_Principal.py'],
     pathex=[],
     binaries=[],
-    datas=[('C:\\Users\\LBC\\Desktop\\ETUDES\\LGI3\\LGI3-2024\\POO\\Mes preojets\\Examen POO2\\BD_BFEM.xlsx', '.')],
+    datas=[('BD_BFEM.xlsx', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
